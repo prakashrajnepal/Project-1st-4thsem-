@@ -464,7 +464,7 @@ section{
 
 .messages .box-container{
    display: grid;
-   grid-template-columns: repeat(auto-fit, 35rem);
+   grid-template-columns: repeat(auto-fit, 0.5fr);
    justify-content: center;
    gap:1.5rem;
    max-width: 1200px;
